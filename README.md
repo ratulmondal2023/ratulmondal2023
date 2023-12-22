@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **python**
 
-- 👨‍💻 All of my projects are available at [devanon.netlify.app](devanon.netlify.app)
+- 👨‍💻 All of my projects are available at [devanon.netlify.app](https://devanon.netlify.app)
 
 - 💬 Ask me about **Security Analyst**
 
