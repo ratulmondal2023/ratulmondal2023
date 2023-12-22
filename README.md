@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [devanon.netlify.app](https://devanon.netlify.app)
 
-- 💬 Ask me about **Security Analyst**
+- 💬 Ask me about **Python Socket Framework**
 
 - 📫 How to reach me **ratulisback2022@gmail.com**
 
