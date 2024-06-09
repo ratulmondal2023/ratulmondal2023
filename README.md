@@ -1,3 +1,4 @@
+![logo](https://github.com/ratulmondal2023/ratulmondal2023/blob/main/rain.gif)
 <h1 align="center">Hi, I'm Ratul Mondal</h1>
 <h3 align="center">A Junior Security Analyst from Bangladesh</h3>
 
