@@ -1,4 +1,4 @@
-![logo](https://github.com/ratulmondal2023/ratulmondal2023/blob/main/rain.gif)
+![logo](https://github.com/ratulmondal2023/ratulmondal2023/blob/main/robot.gif)
 <h1 align="center">Hi, I'm Ratul Mondal</h1>
 <h3 align="center">A Full-Stack Web & App Developer from Bangladesh</h3>
 
