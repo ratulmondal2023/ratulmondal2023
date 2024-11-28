@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ratul-mondal-9ab012252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ratul-mondal-9ab012252" height="30" width="40" /></a>
 <a href="https://fb.com/anonisback2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anonisback2022" height="30" width="40" /></a>
-<a href="https://www.instagram.com/r___sigma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r___sigma" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ratul__mondal__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ratul__mondal__" height="30" width="40" /></a>
 </p>
 
 
